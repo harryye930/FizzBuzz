@@ -14,6 +14,5 @@ class FizzBuzz:
             else:
                 print(i)
 
-# Run the FizzBuzz program
 if __name__ == "__main__":
     FizzBuzz.main()
